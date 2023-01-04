@@ -1,0 +1,15 @@
+A tag <a> de ancoragem é utilizada para direcionar um texto ou uma imagem para outra página. 
+Entretanto, existem atributos responsáveis por executar o download de um arquivo, direcionar uma URL, entre outras funções. 
+Pensando nisso, com que objetivo devemos usar o atributo href?
+
+Para indicar o destino a que um link deve nos levar.
+
+
+Alternativa correta. Com o atributo href, teremos o endereço de destino de um link, podendo direcionar para e-mails, telefones, outros sites e abas
+
+
+No último vídeo, conhecemos a tag <a>. Para quê ela serve?
+
+Para marcar uma âncora para outro ponto na internet
+
+ A tag <a> serve justamente como uma âncora, um link, que vai nos levar para outro ponto na internet.
